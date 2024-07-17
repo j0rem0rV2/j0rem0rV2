@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Luiz Romero!</h2>
+<h2 align="left">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kait&pause=1000&width=435&lines=MY+NAME+IS+LUIZ+ROMERO!)](https://git.io/typing-svg)
+</h2>
 
 ###
 
