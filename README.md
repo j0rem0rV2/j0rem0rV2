@@ -2,9 +2,13 @@
 
 ###
 
+###
+
 <div align="right">
   <img height="150" src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif"  />
 </div>
+
+###
 
 ###
 
@@ -16,6 +20,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 ###
 
@@ -35,6 +41,8 @@
 
 ###
 
+###
+
 <p align="left">Frameworks</p>
 
 ###
@@ -51,11 +59,6 @@
 
 ###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 ###
 
 <div align="left">
@@ -71,6 +74,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+###
 
 ###
 
