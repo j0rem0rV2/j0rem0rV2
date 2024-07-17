@@ -63,6 +63,10 @@
 
 ###
 
+<p align="left">Platforms, Tools and OS</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -77,18 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
 
 ###
 
-<p align="left">Platforms, Tools and OS</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Joremor">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Joremor&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
