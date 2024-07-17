@@ -1,5 +1,5 @@
 <h2 align="left">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kait&pause=1000&width=435&lines=MY+NAME+IS+LUIZ+ROMERO!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kait&pause=1000&width=435&lines=MY+NAME+IS+LUIZ+ROMERO!" alt="Typing SVG" /></a>
 </h2>
 
 ###
