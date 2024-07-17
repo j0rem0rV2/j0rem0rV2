@@ -5,9 +5,9 @@
 <div align="right">
   <img height="150" src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif"  />
 </div>
-
+<br>
 ###
-
+<br>
 <div align="right">
   <a href="https://discord.com/channels/j0rem0r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
