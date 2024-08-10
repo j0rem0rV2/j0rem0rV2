@@ -49,9 +49,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
     </div>
   </div>
-  <div style="text-align: right;">
-    <img  src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif" alt="Gojo Satoru" />
-    <div style="display: flex; justify-content: space-evenly;margin-top:10">
+
+  <div style="text-align: right; flex: 0 0 auto;">
+    <img src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif" alt="Gojo Satoru" style="max-width: 200px; height: auto;"/>
+    <div style="display: flex; justify-content: flex-end; margin-top: 10px;">
       <a href="https://discord.com/channels/j0rem0r" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="discord logo" />
       </a>
@@ -59,12 +60,9 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="150" height="35" alt="linkedin logo" />
       </a>
       <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+        <img style="margin-top: 0;" align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO logo"/>
+      </a>
     </div>
   </div>
+
 </div>
-
-###
-
-
-###
