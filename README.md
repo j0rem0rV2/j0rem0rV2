@@ -1,4 +1,4 @@
-<div align="center">
+y<div align="center">
   <h2 align="left">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Kait&pause=1000&width=435&lines=MY+NAME+IS+LUIZ+ROMERO!" alt="Typing SVG" />
@@ -50,6 +50,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="40" alt="grunt logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="40" alt="nodejs logo" />
     </div>
     <h2 align="left" style="margin-top: 20px;">Platforms, Tools and OS</h2>
     <div align="left">
