@@ -51,7 +51,7 @@ y<div align="center">
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
     </div>
     <h2 align="left" style="margin-top: 20px;">Platforms, Tools and OS</h2>
     <div align="left">
