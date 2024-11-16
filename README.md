@@ -18,8 +18,6 @@
       <a href="https://www.linkedin.com/in/luiz-felipe-romero-306421242" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="150" height="35" alt="linkedin logo" />
       </a>
-      <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     </div>
   </div>
     <h2 align="left">Languages</h2>
