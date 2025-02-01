@@ -9,10 +9,10 @@
 
 ---
 
-## 🛠️ **Tech Stack**
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
+## 🛠️ **Tech Stack**  
+Here are some of the technologies I use in my daily life:
 
-### 💻 **Linguagens de Programação**
+### 💻 **Programming Languages**  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 🚀 **Frameworks & Bibliotecas**
+### 🚀 **Frameworks & Libraries**  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
@@ -38,7 +38,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 🛢 **Bancos de Dados**
+### 🛢 **Databases**  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
@@ -47,7 +47,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 🖥️ **Ferramentas & Plataformas**
+### 🖥️ **Tools & Platforms**  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
@@ -57,7 +57,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 🔌 **Dispositivos & IoT**
+### 🔌 **Devices & IoT**  
 <div align="center">
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="35" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="35" alt="Arduino" />
@@ -66,7 +66,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 🌎 **Me encontre aqui**
+## 🌎 **Find me here**  
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-felipe-romero-306421242">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -78,3 +78,4 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+
