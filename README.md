@@ -10,7 +10,7 @@
 
   <div style="flex: 1; margin-right: 20px;">
       <div style="text-align: right;" align="right">
-    <img  src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif" alt="Gojo Satoru" />
+    <img  src="https://media1.tenor.com/m/MERqoQauaSkAAAAd/gojo-satoru-gojo.gif](https://tenor.com/view/shiryu-saint-seiya-superpower-gif-13133433" alt="Gojo Satoru" />
     <div style="display: flex; justify-content: space-evenly;margin-top:10">
       <a href="https://discord.com/channels/j0rem0r" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="discord logo" />
