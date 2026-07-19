@@ -71,7 +71,7 @@ Here are some of the technologies I use in my daily life:
   <a href="https://github.com/j0rem0rV2">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.com/channels/j0rem0r">
+  <a href="https://discord.com/channels/generalsuharto">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
