@@ -2,9 +2,10 @@
 <p align="center">
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Vibe+Coder" alt="Typing SVG" />
-</p>
-
-<div class="tenor-gif-embed" data-postid="16866760774105207752" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/e-gif-16866760774105207752">E GIF</a>from <a href="https://tenor.com/search/e-gifs">E GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>\
+<div class="tenor-gif-embed" data-postid="16866760774105207752" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%">
+  <a href="https://tenor.com/view/e-gif-16866760774105207752">E GIF</a> from <a href="https://tenor.com/search/e-gifs">E GIFs</a>
+</div>
 
 ---
 
